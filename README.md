@@ -1,5 +1,5 @@
-- 👋 Hoi, @ibia-nis here
-- 🌱 I’m currently studying Cybersecurity!
+- 👋 Hoi - @ibia-nis here
+- 🌱 Currently studying Cybersecurity!
 - 📫 Reach me via ibiaflorescastillo@hotmail.com
 
 <!---
